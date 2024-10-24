@@ -8,8 +8,12 @@ The real-world system that this model seeks to emulate is depicted in the follow
 
 The decision-making processes of households are influenced by a variety of factors, as illustrated through arrows surrounding the adoption decision of Household A.
 The households in the model are interconnected through a social network, with social influences originating from interactions within this network.
+
+
 The model is not intended to provide precise predictions of energy efficiency diffusion; 
 rather, its purpose is to yield insights regarding the effectiveness of various interventions in fostering energy efficiency diffusion.
+
+
 The model simulates individual adoption and community adoption, as shown in the following figures.
 <img src="https://github.com/user-attachments/assets/15b141aa-46b6-4f55-bc30-088de1f349e0" alt="Individual decision process" width="50%" height="50%">
 

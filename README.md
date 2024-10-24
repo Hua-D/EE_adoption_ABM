@@ -11,3 +11,15 @@ The households in the model are interconnected through a social network, with so
 The model is not intended to provide precise predictions of energy efficiency diffusion; 
 rather, its purpose is to yield insights regarding the effectiveness of various interventions in fostering energy efficiency diffusion.
 The model simulates individual adoption and community adoption, as shown in the following figures.
+<img src="https://github.com/user-attachments/assets/15b141aa-46b6-4f55-bc30-088de1f349e0" alt="Individual decision process" width="50%" height="50%">
+
+Individual energy efficiency adoption decision process
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/3e7d90a2-c001-424c-906c-71704a4e5603"  width="44%" />
+  <img src="https://github.com/user-attachments/assets/5e9c499d-063d-4bad-ba4e-17885535cafb" width="40%" />
+</p>
+Community energy efficiency adoption decision process
+
+
+

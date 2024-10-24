@@ -2,7 +2,8 @@
 This model aims to simulate and examine the effects of interventions on the adoption and diffusion of energy efficiency. 
 The real-world system that this model seeks to emulate is depicted in the following figure.
 
-![image](https://github.com/user-attachments/assets/2378a2e9-a968-475f-93ab-2e995c051366)
+
+<img src="https://github.com/user-attachments/assets/41056861-3ea0-461a-a757-8f41c804d029" alt="EE Adoption Model" width="60%" height="60%">
 
 
 The decision-making processes of households are influenced by a variety of factors, as illustrated through arrows surrounding the adoption decision of Household A.
